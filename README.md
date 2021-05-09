@@ -4,4 +4,4 @@
 
 **credit.py** defines a credit card payment system type (Visa, MasterCard, American Express) and correctness of card number with Lunh algorithm
 
-**caesar.py** encript message with Caesar cipher, usage: *python caesar key. /* **key** shoul be unsigned integer.
+**caesar.py** encript message with Caesar cipher, usage: *python caesar key* .  **key** shoul be unsigned integer.
