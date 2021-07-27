@@ -6,3 +6,4 @@
 - **vigenere.py** encripting message with Vigenere chipfer. Key shoul be a word.
 - **crack.py** Brut force chack for up to 5 simbol password hashed with DES algorithm.
 - **gen.py** and **crack2.py** - are generator reducted hash tables and program for search in hash table file
+- **tournament.py** simulate soccer tournament to determine probability of every team to be a champion. Simulation based on raiting from file **teams_rating.csv**
